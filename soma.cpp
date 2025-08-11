@@ -1,6 +1,6 @@
-#include <iostream> // Libs Entrada/Saída C++
+#include <iostream>
 using namespace std;
-// tipo nome (conjunto de parametros) assinatura da funcao
+
 int main(){
     int A,B;
     cin >> A;
